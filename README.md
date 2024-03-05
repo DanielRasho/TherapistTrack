@@ -10,8 +10,6 @@ An application specialized for working. This repo containt all the process we we
 
 [🔴 Phase 1](https://github.com/DanielRasho/TherapistTrack/tree/main/phase1) - Understanding the client problems.
 
-[🔴 Phase 2](https://github.com/DanielRasho/TherapistTrack/tree/main/phase3) - Understangind the business and Ideating.
+[🔴 Phase 2](https://github.com/DanielRasho/TherapistTrack/tree/main/phase2) - Understangind the business and Ideating.
 
 [🔴 Phase 3](https://github.com/DanielRasho/TherapistTrack/tree/main/phase3) - Unkown yet...
-
-
