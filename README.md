@@ -12,4 +12,6 @@ An application specialized for working. This repo containt all the process we we
 
 [🔴 Phase 2](https://github.com/DanielRasho/TherapistTrack/tree/main/phase2) - Understangind the business and Ideating.
 
+            [> Non functional requirements](https://github.com/DanielRasho/TherapistTrack/tree/main/phase2/non_functional_requisites_logs)
+
 [🔴 Phase 3](https://github.com/DanielRasho/TherapistTrack/tree/main/phase3) - Unkown yet...
