@@ -8,10 +8,10 @@
 
 An application specialized for working. This repo containt all the process we went to trought to make it.
 
-[🔴 Phase 1](https://github.com/DanielRasho/TherapistTrack/tree/main/phase1) - Understanding the client problems.
+[🔴 Phase 1](https://github.com/DanielRasho/TherapistTrack/tree/main/PreDesignFiles/phase1) - Understanding the client problems.
 
-[🔴 Phase 2](https://github.com/DanielRasho/TherapistTrack/tree/main/phase2) - Understangind the business and Ideating.
+[🔴 Phase 2](https://github.com/DanielRasho/TherapistTrack/tree/main/PreDesignFiles/phase2) - Understangind the business and Ideating.
 
-            [> Non functional requirements](https://github.com/DanielRasho/TherapistTrack/tree/main/phase2/non_functional_requisites_logs)
+            [> Non functional requirements](https://github.com/DanielRasho/TherapistTrack/tree/main/PreDesignFiles/phase2/non_functional_requisites_logs)
 
-[🔴 Phase 3](https://github.com/DanielRasho/TherapistTrack/tree/main/phase3) - Unkown yet...
+[🔴 Phase 3](https://github.com/DanielRasho/TherapistTrack/tree/main/PreDesignFiles/phase3) - First Database an Prototipes
