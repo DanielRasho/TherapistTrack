@@ -1,8 +1,8 @@
 <template>
   <div class="login-form">
     <h1>Login</h1>
-    <Name />
-    <Password />
+    <NameEntry />
+    <PasswordEntry />
     <button @click="ingresar">Ingresar →</button>
     <p v-if="mensajeError" class="error-message">{{ mensajeError }}</p>
   </div>
@@ -10,8 +10,8 @@
 
 <script setup>
 import { ref } from 'vue';
-import Name from './components/Name.vue'
-import Password from './components/Password.vue'
+import NameEntry from './components/NameEntry.vue'
+import PasswordEntry from './components/PasswordEntry.vue'
 
 const nombre = ref('');
 const password = ref('');
