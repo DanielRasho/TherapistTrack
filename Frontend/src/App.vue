@@ -1,6 +1,6 @@
 <template>
   <div class="login-form">
-    <h1>Login</h1>
+    <h1><b>Login</b></h1>
     <NameEntry />
     <PasswordEntry />
     <button @click="ingresar">Ingresar →</button>

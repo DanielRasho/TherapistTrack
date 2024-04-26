@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Motiva Sans';
-  src: url('fonts/MotivaSansRegular.woff.ttf') format('woff2');
+  src:url('fonts/MotivaSansMedium.woff.ttf') format('woff2');
 }
 
 #app {
