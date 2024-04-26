@@ -1,6 +1,6 @@
 <template> 
     <div class="form-group">
-        <label for="password">Contraseña</label>
+        <label >Contraseña</label>
         <input type="password" id="password" v-model="password" placeholder="••••••••" maxlength="32"/>
         <span class="icon-eye"></span>
     </div>

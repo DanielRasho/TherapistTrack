@@ -1,6 +1,6 @@
 <template>
     <div class="form-group">
-        <label for="name">Nombres</label>
+        <label>Nombres</label>
         <input type="text" id="name" v-model="nombre" placeholder="Escribe tu nombre..." maxlength="64">
       </div>
 </template>

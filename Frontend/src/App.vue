@@ -44,7 +44,6 @@ async function ingresar() {
       const data = await response.json();
 
       if (data.success) {
-        // Autenticación exitosa. Puedes guardar el token si viene uno, o redireccionar al usuario.
         const token = data.token;
         localStorage.setItem('token', token);
 
@@ -63,7 +62,9 @@ async function ingresar() {
 </script>
 
 <style>
+
 body {
+  font-family: 'Motiva Sans', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -78,7 +79,7 @@ body {
   background: #fff;
   padding: 2rem;
   border-radius: 1rem;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.804);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.247);
   width: 390px;
   display: flex;
   flex-direction: column;
