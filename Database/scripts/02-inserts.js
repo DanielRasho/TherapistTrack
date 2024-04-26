@@ -1,3 +1,60 @@
+// Para el rol "Admin"
+db.Rol.insertOne({
+   nombre: "Admin",
+   permisos: [
+      {
+         colleccion: "usuario",
+         permisos: ["CREATE", "READ", "UPDATE"]
+      },
+      {
+         colleccion: "rol",
+         permisos: ["READ", "UPDATE"]
+      }
+   ]
+});
+
+// Para el rol "Doctor"
+db.Rol.insertOne({
+   nombre: "Doctor",
+   permisos: [
+      {
+         colleccion: "paciente",
+         permisos: ["CREATE", "READ", "UPDATE", "DELETE"]
+      },
+      {
+         colleccion: "expediente",
+         permisos: ["CREATE", "READ", "UPDATE", "DELETE"]
+      },
+      {
+         colleccion: "archivo",
+         permisos: ["CREATE", "READ", "UPDATE", "DELETE"]
+      }
+   ]
+});
+
+// Para el rol "Asistente"
+db.Rol.insertOne({
+   nombre: "Asistente",
+   permisos: [
+      {
+         colleccion: "paciente",
+         permisos: ["READ", "UPDATE"]
+      },
+      {
+         colleccion: "expediente",
+         permisos: ["READ"]
+      },
+      {
+         colleccion: "archivo",
+         permisos: ["READ"]
+      }
+   ]
+});
+
+
+
+
+
 /**
  * 
 db = db.getSiblingDB('therapisttrack')
