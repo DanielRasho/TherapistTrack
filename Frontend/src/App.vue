@@ -62,7 +62,6 @@ async function ingresar() {
 </script>
 
 <style>
-
 body {
   font-family: 'Motiva Sans', sans-serif;
   display: flex;
