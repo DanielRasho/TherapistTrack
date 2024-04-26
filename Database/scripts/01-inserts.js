@@ -1,0 +1,10 @@
+db.collection('Paciente');
+db.collection('Hijos');
+db.collection('Escolaridad');
+db.collection('Doctor');
+db.collection('PDF');
+db.collection('metadata');
+db.collection('Expediente');
+db.collection('Categorias');
+db.collection('Etiquetas');
+db.collection('Documentos');
