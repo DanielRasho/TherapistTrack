@@ -1,3 +1,4 @@
+db = db.getSiblingDB('therapisttrack')
 db.runCommand( {
    collMod: "Paciente",
    validator: { $jsonSchema: {
