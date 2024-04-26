@@ -1,3 +1,5 @@
+/**
+ * 
 db = db.getSiblingDB('therapisttrack')
 db.runCommand( {
    collMod: "Paciente",
@@ -365,3 +367,4 @@ db.runCommand( {
    } },
    validationLevel: "moderate"
 } );
+ */
