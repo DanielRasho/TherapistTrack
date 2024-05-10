@@ -90,22 +90,6 @@ body {
   margin-bottom: 2rem;
 }
 
-button {
-  background: #F9BB42;
-  color: white;
-  border: none;
-  padding: .75rem 1.5rem;
-  border-radius: .5rem;
-  cursor: pointer;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
-  align-self: flex-end;
-  transition: background-color 0.2s;
-}
-
-button:hover {
-
-  background: #FFCD6C;
-}
 
 .error-message {
   color: red;
